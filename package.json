@@ -1,7 +1,7 @@
 {
-  "name": "javascript-core-1-coursework-week3",
+  "name": "javascript-core-1-coursework-week3-london8",
   "version": "1.0.0",
-  "description": "Exercises for JS1 Week 3",
+  "description": "Exercises for JS1 Week 3 - London 8",
   "license": "CC-BY-SA-4.0",
   "scripts": {
     "test": "jest --testRegex='mandatory[/\\\\].*\\.js$'",
